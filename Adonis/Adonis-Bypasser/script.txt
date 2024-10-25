@@ -1,0 +1,3 @@
+--> Made by Globe & Moonzy
+getgenv().checksupport = true --> Disable if you don't want to check for supportability
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MoonzyDev/Roblox-Scripts/refs/heads/main/Adonis/Adonis-Bypasser/Adonis-Bypasser.lua"))();
