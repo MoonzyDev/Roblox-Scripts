@@ -1,2 +1,3 @@
-# Roblox-Scripts
-a lot of random roblox scripts i've made or i like
+# Scriptieees
+#### This repository is for random Roblox Scripts I've saved and used.
+#### Feel free to use them, not all scripts are mine!
