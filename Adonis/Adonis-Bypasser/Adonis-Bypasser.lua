@@ -9,7 +9,7 @@ for _,v in pairs(getgc()) do
   if (typeof(v) == "function") then
     local x = debug.getinfo(v);
     if (x.name == "compareTables") then
-      hookfunction(value, function() return true end);
+      hookfunction(v, function() return true end);
     end
   end
 end
